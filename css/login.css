@@ -1,0 +1,32 @@
+.login-wrapper {
+	background: linear-gradient(45deg, RGB(67, 88, 208), RGB(201, 80, 194));
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.login {
+	background-color: white;
+	padding: 50px 30px;
+	display: flex;
+	align-items: center;
+	border-radius: 24px;
+}
+
+.login__logo .material-icons {
+	font-size: 200px;
+}
+
+.login__title {
+	margin-bottom: 30px;
+}
+
+.input-group {
+	display: flex;
+	align-items: center;
+}
+
+.input-group .material-icons {
+	margin-right: 20px;
+}
